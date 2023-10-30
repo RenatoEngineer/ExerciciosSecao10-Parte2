@@ -6,6 +6,8 @@
 <p><strong>[2] – Digitar os valores do segundo ponto</strong></p>
 <p><strong>[3] – Mostrar a distância entre os pontos</strong></p>
 <p><strong>[4] – Sair</strong></p>
+<p></p>
+<p><strong>DICA: Distância entre dois pontos (x1, y1) (x2, y2): raiz quadrada de (x1 – x2)² + (y1 – y2)²</strong></p>
 
 [Resposta](./ExerciciosResolvidos/ex001.c)
 
