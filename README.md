@@ -11,8 +11,7 @@
 
 [Resposta](./ExerciciosResolvidos/ex001.c)
 
-#### 2- Crie uma struct para armazenar os dados (nome, idade, posição, numero_camisa) dos jogadores de vôlei de um time.
-<p><strong>Crie duas estruturas para armazenar os jogadores principais e os reservas. Desenvolva um programa em que o usuário consiga entrar com os jogadores principais (seis) e reservas (4) e mostre-os na tela. Para facilitar a entrada de dados, utilize um menu.</strong></p>
+#### 2- Crie uma struct para armazenar os dados (nome, idade, posição, numero_camisa) dos jogadores de vôlei de um time. Crie duas estruturas para armazenar os jogadores principais e os reservas. Desenvolva um programa em que o usuário consiga entrar com os jogadores principais (seis) e reservas (4) e mostre-os na tela. Para facilitar a entrada de dados, utilize um menu.
 
 [Resposta](./ExerciciosResolvidos/ex002.c)
 
