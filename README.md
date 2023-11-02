@@ -15,3 +15,7 @@
 
 [Resposta](./ExerciciosResolvidos/ex002.c)
 
+#### 3- Faça um programa que declare 3 variáveis, dos tipos inteiro, real e caracter, atribua valores para estas variáveis e mostre seus valores assim como seu tamanho em bytes e seu endereço na memória (inteiro e hexa).
+
+[Resposta](./ExerciciosResolvidos/ex003.c)
+
