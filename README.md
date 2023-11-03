@@ -19,3 +19,9 @@
 
 [Resposta](./ExerciciosResolvidos/ex003.c)
 
+#### 4- Crie um programa que declare duas variáveis (inteiro e real) atribua valores para elas e crie dois ponteiros, cada um apontando para uma destas variáveis.
+<p><strong>Mostre na tela: o Valor e o endereço de memória das variáveis, o valor do ponteiro, o endereço dp ponteiro e o valor apontado pelo ponteiro.</strong></p>
+<p><strong>Qual destes valores são iguais? Justifique?</strong></p>
+
+[Resposta](./ExerciciosResolvidos/ex004.c)
+
