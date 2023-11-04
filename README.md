@@ -25,3 +25,16 @@
 
 [Resposta](./ExerciciosResolvidos/ex004.c)
 
+#### 5- Explique o que faz o programa a seguir, e quais valores serão mostrados ao final.
+<p></p>
+<p><strong>int x1 = 1, x2 = 2, *px1;</strong></p>
+<p></p>
+<p><strong>px1 = &x1;</strong></p>
+<p><strong>x1 = 5;</strong></p>
+<p><strong>x2 = (*px1) + 10;</strong></p>
+<p><strong>x1 = 9;</strong></p>
+<p></p>
+<p><strong>printf(“x1: %d x2: %d *px1: %d”, x1, x2, *px1);</strong></p>
+
+[Resposta](./ExerciciosResolvidos/ex005.c)
+
