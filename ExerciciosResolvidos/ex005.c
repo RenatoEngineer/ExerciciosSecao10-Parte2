@@ -4,7 +4,7 @@
  *  Criado em: 4 de nov de 2023
  *      Autor: Renato Gomes de Sousa
  *
- *      https://github.com/RenatoEngineer/ExerciciosSecao10-Parte1
+ *      https://github.com/RenatoEngineer/ExerciciosSecao10-Parte2
  */
 
 #include <stdio.h>
