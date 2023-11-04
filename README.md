@@ -38,3 +38,7 @@
 
 [Resposta](./ExerciciosResolvidos/ex005.c)
 
+#### 6- Modifique o exercício número 2 para a utilização de ponteiros na leitura e apresentação dos dados dos vetores.
+
+[Resposta](./ExerciciosResolvidos/ex006.c)
+
