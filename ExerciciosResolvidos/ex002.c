@@ -101,7 +101,7 @@ int main(){
 				printf("\nNome: %s\n", jogador->nome);
 				printf("Idade: %d\n", jogador->idade);
 				printf("Posicao: %s\n", jogador->posicao);
-				printf("Numero da Caixa: %d\n", jogador->numeroCamisa);
+				printf("Numero da Camisa: %d\n", jogador->numeroCamisa);
 			}
 			break;
 
